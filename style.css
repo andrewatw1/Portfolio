@@ -205,6 +205,11 @@ section {
     margin-top: 1rem;
     gap: 1rem;
 }
+
+.img-profile {
+    border-radius: 25%;
+    transform: scale(1.2);
+}
   
 /* ICONS */
   
@@ -362,6 +367,12 @@ article .icon {
 .color-container {
     border-color: rgb(163, 163, 163);
     background: rgb(250, 250, 250);
+}
+
+.project-img1 {
+    border-radius: 2rem;
+    width: 100%;
+    height: 100%; 
 }
    
 .project-img {
