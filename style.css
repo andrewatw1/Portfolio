@@ -290,6 +290,7 @@ section {
   
 .about-pic {
     border-radius: 2rem;
+    scale: 120%;
 }
   
 .arrow {
@@ -380,7 +381,7 @@ article .icon {
     width: 90%;
     height: 90%;
 }
-  
+
 .project-title {
     margin: 1rem;
     color: black;
