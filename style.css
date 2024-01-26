@@ -208,7 +208,7 @@ section {
 
 .img-profile {
     border-radius: 25%;
-    transform: scale(1.2);
+    transform: scale(1);
 }
   
 /* ICONS */
@@ -290,7 +290,6 @@ section {
   
 .about-pic {
     border-radius: 2rem;
-    scale: 100%;
 }
   
 .arrow {
